@@ -4,3 +4,9 @@
 #python
 .venv
 
+#vscode
+.vscode
+
+#logging
+errorinfo.txt
+
