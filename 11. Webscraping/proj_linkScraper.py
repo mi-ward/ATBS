@@ -4,6 +4,7 @@ import os, requests, sys
 url = sys.argv[1]
 res = requests.get(url)
 soup = BeautifulSoup(res.content, 'html.parser')
+print(res.content)
 folder_name = 'site-links'
 
 os.makedirs(folder_name, exist_ok=True)
