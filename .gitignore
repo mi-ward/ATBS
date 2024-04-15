@@ -10,3 +10,7 @@
 #logging
 errorinfo.txt
 
+#google
+client_secret*
+*.pickle
+
