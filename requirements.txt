@@ -24,6 +24,7 @@ protobuf==4.25.3
 pyasn1==0.6.0
 pyasn1_modules==0.4.0
 pyparsing==3.1.2
+PyPDF2==1.26.0
 pyperclip==1.8.2
 PySocks==1.7.1
 requests==2.31.0
