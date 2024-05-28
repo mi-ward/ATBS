@@ -15,3 +15,7 @@ errorinfo.txt
 client_secret*
 *.pickle
 
+#logging
+*.log
+
+comics
