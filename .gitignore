@@ -1,5 +1,18 @@
+#google
+client_secret*
+*.pickle
+credentials.json
+token.json
+
+#logging
+errorinfo.txt
+*.log
+
 #mac
 .DS_Store
+
+#other
+comics
 
 #python
 .env
@@ -8,14 +21,9 @@
 #vscode
 .vscode
 
-#logging
-errorinfo.txt
 
-#google
-client_secret*
-*.pickle
 
-#logging
-*.log
 
-comics
+
+
+
