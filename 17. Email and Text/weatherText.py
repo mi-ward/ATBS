@@ -5,8 +5,12 @@ from pprint import pprint
 
 API_TOKEN=os.environ['PUSHOVER_API_KEY']
 USER_KEY=os.environ['PUSHOVER_USER_KEY']
+<<<<<<< HEAD
 EMAIL=os.environ['EMAIL']
 
+=======
+EMAIL = os.environ['EMAIL']
+>>>>>>> d989622 (finished the book)
 
 url = 'https://api.weather.gov/'
 headers = {'user-agent': EMAIL}
